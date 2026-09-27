@@ -1,47 +1,35 @@
-# Hi, I'm Vatsal Furia
+# Hi there 👋
 
-Computer Science graduate from IIIT Pune, interested in software engineering,
-backend systems, and building practical tools.
+I'm **Vatsal Furia**, a Computer Science graduate from **IIIT Pune**.
 
-Previously a Java Development Intern at Nomura, where I worked on trade
-investigation tooling, automated testing, and CI/CD workflows.
+I like building software around problems that matter to me or the
+people around me. My usual starting point is simple: **notice a problem,
+understand it, and build something that makes it better.**
 
-## What I work with
+I've explored different areas of software — from **backend systems and
+application architecture** to mobile apps, AR, and browser extensions.
+I enjoy learning a new area by actually building something with it.
 
-**Languages:** Java · Python · C++ · TypeScript/JavaScript · SQL  
-**Backend:** Spring Boot · FastAPI · REST APIs  
-**Databases:** MySQL · PostgreSQL · SQLite  
-**Tools:** Git · Docker · Jenkins · Linux/Unix
+### Currently exploring
 
-## Projects I'm Proud of!
+I'm particularly curious about **AI, LLMs, and Agents** — and how they
+can be integrated into applications and used to build genuinely useful tools.
+I'm also going deeper into **backend engineering and software architecture**,
+which are the areas I find myself most drawn to.
 
-### Bank Statement Analyzer
-**Python · PySide6 · SQLite**
+### A little outside software
 
-Desktop application for processing and categorizing bank transactions for ITR Filling
+I'm interested in **music and music production**, and spend a lot of time
+exploring philosophy, psychology, and cognitive science — particularly questions
+around how people think, make decisions, and understand the world. I'm also
+drawn to design and architecture, and the way thoughtful constraints can shape
+how something feels and works.
 
-### BillSwift
-**React Native · TypeScript**
+I enjoy working with people who are **thoughtful, curious, and willing to
+question their assumptions**.
 
-Offline-first Android POS and barcode billing application built for a retail
-workflow.
+## Find me
 
-### Keeps
-**Flutter · Dart**
-
-Offline-first personal product lifecycle journal for keeping track of purchases
-and their history.
-
-### Cross-Application Authentication
-**Spring Boot · Spring Security · JWT · MySQL**
-
-Centralized authentication implementation shared between two Spring Boot
-applications.
-
-
-
-
-## Connect
-
-[LinkedIn]([https://www.linkedin.com/in/vatsal-furia-324854264/]) · [LeetCode]([https://leetcode.com/u/VatsalF/]) ·
-[CodeChef]([https://www.codechef.com/users/fvatlord])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vatsal-furia-324854264/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/VatsalF/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/fvatlord)
